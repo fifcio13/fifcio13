@@ -29,6 +29,12 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fifcio13&layout=compact)](https://github.com/fifcio13/github-readme-stats)
+
 ---
 
-- 👯 feel free to contact me filipson20@gmail.com
+- 👯 feel free to contact me: filipson20@gmail.com
+
+
+
+
