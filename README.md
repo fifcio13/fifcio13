@@ -2,7 +2,7 @@
 
 [![fifcio13.github.io](https://img.shields.io/badge/fifcio13.github.io-UP-orange)](https://fifcio13.github.io)
 
-## I am junior web developer
+## I am web developer
 
 ### Languages and Tools:
 
